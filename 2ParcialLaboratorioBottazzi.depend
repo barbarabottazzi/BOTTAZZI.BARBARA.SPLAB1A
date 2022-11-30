@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1669817578 source:c:\users\emanuel baquero\onedrive\escritorio\2parciallaboratorio\2parciallaboratoriobottazzi\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedlist.h"
+	"outputs.h"
+	<time.h>
+	"controller.h"
+	"input.h"
+
+1669663350 source:c:\users\emanuel baquero\onedrive\escritorio\2parciallaboratorio\2parciallaboratoriobottazzi\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"input.h"
+	"outputs.h"
+	"input.h"
+
+1669580255 c:\users\emanuel baquero\onedrive\escritorio\2parciallaboratorio\2parciallaboratoriobottazzi\input.h
+
+1669818421 c:\users\emanuel baquero\onedrive\escritorio\2parciallaboratorio\2parciallaboratoriobottazzi\outputs.h
+
+1669817746 source:c:\users\emanuel baquero\onedrive\escritorio\2parciallaboratorio\2parciallaboratoriobottazzi\outputs.c
+	"input.h"
+	<stdio.h>
+	<stdlib.h>
+	"outputs.h"
+	<ctype.h>
+
+1669816839 source:c:\users\emanuel baquero\onedrive\escritorio\2parciallaboratorio\2parciallaboratoriobottazzi\parser.c
+	"pelicula.h"
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+
+1669818983 c:\users\emanuel baquero\onedrive\escritorio\2parciallaboratorio\2parciallaboratoriobottazzi\pelicula.h
+
+1669819529 c:\users\emanuel baquero\onedrive\escritorio\2parciallaboratorio\2parciallaboratoriobottazzi\linkedlist.h
+
+1669819208 source:c:\users\emanuel baquero\onedrive\escritorio\2parciallaboratorio\2parciallaboratoriobottazzi\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"pelicula.h"
+	"parser.h"
+	<string.h>
+	"outputs.h"
+	"input.h"
+	"controller.h"
+
+1669818363 c:\users\emanuel baquero\onedrive\escritorio\2parciallaboratorio\2parciallaboratoriobottazzi\parser.h
+
+1669811139 source:c:\users\emanuel baquero\onedrive\escritorio\2parciallaboratorio\2parciallaboratoriobottazzi\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1669819281 source:c:\users\emanuel baquero\onedrive\escritorio\2parciallaboratorio\2parciallaboratoriobottazzi\pelicula.c
+	"pelicula.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"outputs.h"
+
+1669818792 c:\users\emanuel baquero\onedrive\escritorio\2parciallaboratorio\2parciallaboratoriobottazzi\controller.h
+	"pelicula.h"
+	"LinkedList.h"
+
